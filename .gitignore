@@ -1,0 +1,5 @@
+Fashion_Product_Dataset/
+Fashion_Product_Dataset.zip
+*.zip
+*.npy
+__pycache__/
